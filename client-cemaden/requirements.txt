@@ -1,0 +1,10 @@
+configparser>=3.5.0
+oauthlib>=1.1.2
+psycopg2>=2.6.2
+pymongo>=3.3.0
+pytz>=2016.6.1
+requests>=2.10.0
+requests-oauthlib>=0.6.2
+requests-toolbelt>=0.7.0
+six>=1.10.0
+pyproj>=1.9.5.1
