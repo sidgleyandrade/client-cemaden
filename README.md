@@ -33,6 +33,7 @@
 
 ## Running
 
+    $ chmod +x run.sh
     $ ./run.sh
 
 ## Contact
