@@ -9,6 +9,10 @@
 * PostgreSQL 9.5 or greater
 * PostGIS 2.0 or greater
 
+## Instalation
+
+    $ git clone https://github.com/sidgleyandrade/client-cemaden.git
+    
 ## Configuration
 
 * To create a database with the extension postgis. It is not necessary to create tables, **client-cemaden** will create the tables from the config file parameters (`segup.cfg`).
@@ -35,6 +39,10 @@
 
     $ chmod +x run.sh
     $ ./run.sh
+
+## Known issues
+
+See [issues](https://github.com/sidgleyandrade/crawler-twitter/issues).
 
 ## Contact
 
